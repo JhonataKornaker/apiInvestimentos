@@ -42,8 +42,8 @@ Esta é uma API Spring Boot para gerenciar investimentos. Ela permite cadastrar,
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   https://github.com/JhonataKornaker/apiInvestimentos.git
+   cd apiInvestimentos
    
 2. **Crie um banco de dados:**
 
