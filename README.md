@@ -45,23 +45,6 @@ Esta é uma API Spring Boot para gerenciar investimentos. Ela permite cadastrar,
    https://github.com/JhonataKornaker/apiInvestimentos.git
    cd apiInvestimentos
    
-2. **Crie um banco de dados:**
-
-    ```bash
-   CREATE DATABASE db_investimentos;
-   
-3. **Configure o arquivo application.properties**
-
-    ```bash
-
-    spring.datasource.url=jdbc:mysql://localhost/db_investimentos
-    spring.datasource.username=seu_usuario
-    spring.datasource.password=sua_senha
-
-    spring.jpa.hibernate.ddl-auto=update
-    spring.jpa.show-sql=true
-    spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect 
-   
 ## Executando a Aplicação
 
 1. **Compile e execute o projeto**

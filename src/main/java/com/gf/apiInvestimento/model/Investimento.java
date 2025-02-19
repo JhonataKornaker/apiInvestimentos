@@ -33,7 +33,6 @@ public class Investimento {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
     private LocalDate data;
 
-    // Getter e Setter para id
     public Long getId() {
         return id;
     }
